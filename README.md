@@ -51,22 +51,17 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
-## CONTACT DETAILS
+## Contact Details
 
-*Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td><a href="mailto:nyg2@illinois.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Philadelphia, PA</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -74,11 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://linkedin.com/in/nanosci">on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
