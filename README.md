@@ -57,7 +57,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:nyg2@illinois.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:nyg2@illinois.com">nyg2@illinois.com</a></td>
     </tr>
     <tr>
       <td>📍</td>
