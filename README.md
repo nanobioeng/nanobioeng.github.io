@@ -14,7 +14,11 @@
 
 ## Projects
 
-$\color{red}{\text{Y[**Bulk RNA-seq**](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)}}$
+This is $\color{red}{\text{red text}}$ and this is $\color{cyan}{\text{cyan text}}$.
+
+$\color{red}{\text{[**Bulk RNA-seq**](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)}}$
+
+$\color{red}{\text{[**Bulk RNA-seq**]}}$
 
 [**Bulk RNA-seq**](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
