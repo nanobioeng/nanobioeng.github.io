@@ -14,10 +14,10 @@
 
 ## Projects
 
-**- Bulk RNA-seq**
+[**Bulk RNA-seq**](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- scRNA-seq**
+[**scRNA-seq**](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
@@ -57,19 +57,15 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:nyg2@illinois.com">nyg2@illinois.com</a></td>
-    </tr>
-    <tr>
-      <td>📍</td>
-      <td>Philadelphia, PA</td>
+      <td><a href="mailto:nyg2@illinois.com">e-maill</a></td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/nanosci">on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/nanosci">LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
