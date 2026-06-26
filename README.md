@@ -1,15 +1,15 @@
 ## About Me
 
 ## Skills
-Areas of Expertise: Therapeutics, immunology, metabolism, obesity, inflammation, nanomedicine
+🫀 Areas of Expertise: Therapeutics, immunology, metabolism, obesity, inflammation, nanomedicine
 
-Programming Languages: R, Python, batch scripting for cluster computing
+🖥️ Programming Languages: R, Python, batch scripting for cluster computing
 
-Mouse Models: diet-induced obesity, metabolic syndrome, cancer, wound healing
+🐭 Mouse Models: diet-induced obesity, metabolic syndrome, cancer, wound healing
 
-Molecular Biology: qRT-PCR, ELISA, RNA-seq, flow cytometry, fluorescence microscopy
+🔬 Molecular Biology: qRT-PCR, ELISA, RNA-seq, flow cytometry, fluorescence microscopy
 
-Software: Image J (FIJI), GraphPad Prism, FlowJo, FCS Express
+🖱️ Software: Image J (FIJI), GraphPad Prism, FlowJo, FCS Express
 
 
 ## Projects
